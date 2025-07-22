@@ -61,10 +61,9 @@ a {
 }
 
 .featured-tea {
-    margin-top: 50px; 
+    margin: 120px auto 0 auto; 
     height: 700px;
     max-width: 1000px;
-    align-content: center;
 }
 
 .tea-types {
@@ -98,6 +97,7 @@ figure {
     background-size: cover;
     height: 500px;
     max-width: 1200px;
+    margin: 0 auto;
 }
 
 .location h2{
